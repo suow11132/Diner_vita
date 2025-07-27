@@ -10,7 +10,7 @@ endif()
 
 project(spongebob C CXX)
 include("${VITASDK}/share/vita.cmake" REQUIRED)
-set(VITA_APP_NAME "Spongebob dinner dash")
+set(VITA_APP_NAME "Spongebob diner dash")
 set(VITA_TITLEID  "DINER1")
 set(VITA_VERSION  "01.00")
 set(VITA_MKSFOEX_FLAGS "-d ATTRIBUTE2=12")
